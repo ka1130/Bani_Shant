@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Some Tag on Bani Shant</title>
+    <link>http://localhost:1313/tags/some-tag/</link>
+    <description>Recent content in Some Tag on Bani Shant</description>
+    <generator>Hugo -- 0.134.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 12:00:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/some-tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bani Shant</title>
+      <link>http://localhost:1313/posts/bani_shant/</link>
+      <pubDate>Wed, 25 Sep 2024 12:00:03 +0200</pubDate>
+      <guid>http://localhost:1313/posts/bani_shant/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;So, who is Bani Shant.&lt;/p&gt;
+&lt;p&gt;I received this strange name as a gift from a machine, though they say there was a human behind, and they even signed themselves. Keyboard-wise.&lt;br&gt;
+Whom do I believe in this world. Whom do I trust.&lt;br&gt;
+Spiritual teachers using the same algorithms.&lt;br&gt;
+As… as what, as who.&lt;br&gt;
+You know, souls are not only inherent to humans. We are not all that important.&lt;br&gt;
+Oh but god how we’d like to in the world with no gods other than ourselves.&lt;br&gt;
+I’ll tell you a secret, it’s always been this way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
